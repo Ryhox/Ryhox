@@ -23,4 +23,4 @@
 </p>
 
 <br>
-<p align="center">Always building something new <img src="https://cdn.7tv.app/emote/01FHJ0AAZ80001HW666WR6HJ2X/4x.avif" height="50"></p>
+<p align="center">Always building something new <img src="https://cdn.7tv.app/emote/01H3BK2PQ00007Y62Y79WSVAKC/4x.avif" height="40"></p>
