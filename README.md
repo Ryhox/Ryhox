@@ -1,4 +1,4 @@
-<h1 align="center">Hey!</h1>
+<h1 align="center">Hey! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFlZXU2Y2xmMHFzaWduMmp5cXR1ajBxODYyN3NycWU2NDN6dmdsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Mzp509B7Ll3EP228j9/giphy.gif" width=50></h1>
 <br>
 <p align="center">
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#" style="display:inline-block" title="C#"/></a>
