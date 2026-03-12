@@ -22,4 +22,4 @@
 <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" style="display:inline-block" title="MySQL"/></a>
 </p>
 <h1></h1>
-<h3 align="center">Always building something new <img src="https://cdn.7tv.app/emote/01H3BK2PQ00007Y62Y79WSVAKC/4x.avif" height="40"></h3>
+<h3 align="center">♥ Always building something new ♥</h3>
