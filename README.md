@@ -8,6 +8,8 @@
 &nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="display:inline-block" title="JavaScript"/></a>
 &nbsp;&nbsp;
+<a href="https://www.typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" style="display:inline-block" title="TypeScript"/></a>
+&nbsp;&nbsp;
 <a href="https://react.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" style="display:inline-block" title="React"/></a>
 &nbsp;&nbsp;
 <a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" style="display:inline-block" title="Next.js"/></a>
@@ -23,6 +25,8 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#" style="display:inline-block" title="C#"/></a>
 &nbsp;&nbsp;
 <a href="https://www.java.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="Java" style="display:inline-block" title="Java"/></a>
+&nbsp;&nbsp;
+<a href="https://dart.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="45" alt="Dart" style="display:inline-block" title="Dart"/></a>
 &nbsp;&nbsp;
 <a href="https://www.arduino.cc"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" height="38" alt="Arduino" style="display:inline-block" title="Arduino"/></a>
 &nbsp;&nbsp;
