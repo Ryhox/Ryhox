@@ -24,9 +24,9 @@
 &nbsp;&nbsp;
 <a href="https://www.java.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="Java" style="display:inline-block" title="Java"/></a>
 &nbsp;&nbsp;
-<a href="https://www.arduino.cc"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" height="40" alt="Arduino" style="display:inline-block" title="Arduino"/></a>
+<a href="https://www.arduino.cc"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" height="38" alt="Arduino" style="display:inline-block" title="Arduino"/></a>
 &nbsp;&nbsp;
-<a href="https://www.cisco.com"><img src="https://skillicons.dev/icons?i=cisco" height="40" alt="Cisco" style="display:inline-block" title="Cisco"/></a>
+<a href="https://www.cisco.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/250px-Cisco_logo_blue_2016.svg.png" height="38" alt="Cisco" style="display:inline-block" title="Cisco"/></a>
 </p>
 
 <h1></h1>
